@@ -1,6 +1,6 @@
 # Atomination
 
-This a game called Atomination.
+This a game called Atomination. Built in 2019.
 
 ## Game rules and features:  
 There is a game board that is n x m grid spaces  
