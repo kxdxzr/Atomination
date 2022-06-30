@@ -1,6 +1,6 @@
 # Atomination
 
-This a game called Atomination. Built in 2019. I have made the GUI.
+This a game called Atomination. Built in 2019. I have made the GUI.  
 ![image](https://user-images.githubusercontent.com/74366156/176735590-4851de22-4d8f-4e28-a8dd-50b789050bdf.png)
 
 
